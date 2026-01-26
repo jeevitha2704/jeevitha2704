@@ -1,9 +1,10 @@
 # 💫 About Me:
-Student developer with a strong interest in web technologies.
-Working on full-stack projects using modern frameworks.
-Hands-on experience through academic and self-driven work.
-Focused on writing maintainable and efficient code.
-Motivated to grow as a software developer.
+<h2>Student developer with a strong interest in web technologies.<br>
+Working on full-stack projects using modern frameworks.<br>
+Hands-on experience through academic and self-driven work.<br>
+Focused on writing maintainable and efficient code.<br>
+Motivated to grow as a software developer.<br>
+</h2>h2>
 
 
 # 💻 Tech Stack:
